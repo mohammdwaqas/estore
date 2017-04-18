@@ -1,0 +1,32 @@
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\LibCore\bin\Debug\LibCore.dll
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\LibCore\bin\Debug\LibCore.pdb
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\LibCore\obj\Debug\LibCore.dll
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\LibCore\obj\Debug\LibCore.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\LibCore\bin\Debug\LibCore.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\LibCore\bin\Debug\LibCore.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\LibCore\obj\Debug\LibCore.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\LibCore\obj\Debug\LibCore.pdb
+D:\ElectricStoreSolution\LibCore\bin\Debug\LibCore.dll
+D:\ElectricStoreSolution\LibCore\bin\Debug\LibCore.pdb
+D:\ElectricStoreSolution\LibCore\obj\Debug\LibCore.dll
+D:\ElectricStoreSolution\LibCore\obj\Debug\LibCore.pdb
+D:\ElectricStoreSolution\LibCore\obj\Debug\LibCore.csprojResolveAssemblyReference.cache
+E:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\bin\Debug\LibCore.dll
+E:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\bin\Debug\LibCore.pdb
+E:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\obj\Debug\LibCore.dll
+E:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\obj\Debug\LibCore.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\bin\Debug\LibCore.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\bin\Debug\LibCore.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\obj\Debug\LibCore.csprojResolveAssemblyReference.cache
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\obj\Debug\LibCore.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\LibCore\obj\Debug\LibCore.pdb
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\LibCore\bin\Debug\LibCore.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\LibCore\bin\Debug\LibCore.pdb
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\LibCore\obj\Debug\LibCore.csprojResolveAssemblyReference.cache
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\LibCore\obj\Debug\LibCore.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\LibCore\obj\Debug\LibCore.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\LibCore\bin\Debug\LibCore.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\LibCore\bin\Debug\LibCore.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\LibCore\obj\Debug\LibCore.csprojResolveAssemblyReference.cache
+D:\Electric Store Crash\Office\ElectricStoreSolution\LibCore\obj\Debug\LibCore.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\LibCore\obj\Debug\LibCore.pdb

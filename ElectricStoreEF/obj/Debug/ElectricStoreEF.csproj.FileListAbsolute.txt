@@ -1,0 +1,8 @@
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreEF\bin\Debug\ElectricStoreEF.exe.config
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreEF\bin\Debug\ElectricStoreEF.exe
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreEF\bin\Debug\ElectricStoreEF.pdb
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreEF\obj\Debug\ElectricStoreEF.csprojResolveAssemblyReference.cache
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreEF\obj\Debug\ElectricStoreEF.Properties.Resources.resources
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreEF\obj\Debug\ElectricStoreEF.csproj.GenerateResource.Cache
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreEF\obj\Debug\ElectricStoreEF.exe
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreEF\obj\Debug\ElectricStoreEF.pdb

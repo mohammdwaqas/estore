@@ -1,0 +1,2 @@
+DBCC CHECKIDENT ('[Items]', RESEED, 0);
+GO

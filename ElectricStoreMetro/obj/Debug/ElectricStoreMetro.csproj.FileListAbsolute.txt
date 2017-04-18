@@ -1,0 +1,229 @@
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe.config
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.exe
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Bunifu_UI_v1.52.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Design.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Fonts.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Tulpep.NotificationWindow.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.xml
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.xml
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csprojResolveAssemblyReference.cache
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.frMain.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frAccount.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frLogin.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBackup.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBAckupRestore.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Category.frCategory.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Customer.frCustomer.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Log.frLog.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Product.frProduct.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamCustom.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamMonthly.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frPraramDaily.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frReports.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frViewSales.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.SelectedData.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frCheckOut.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frModifySales.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSale.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSales.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSelectProducts.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Shop.frShopSetup.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Stock.frStock.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.Properties.Resources.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csproj.GenerateResource.Cache
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe.config
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.exe
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.pdb
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.pdb
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.dll
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.dll
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.dll
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Design.dll
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.dll
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Fonts.dll
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.pdb
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.xml
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.xml
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csprojResolveAssemblyReference.cache
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.frMain.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frAccount.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frLogin.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBackup.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBAckupRestore.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Category.frCategory.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Customer.frCustomer.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Log.frLog.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Product.frProduct.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamCustom.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamMonthly.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frPraramDaily.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frReports.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frViewSales.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.SelectedData.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Return.frReturn.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frCheckOut.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frModifySales.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSale.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSales.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSelectProducts.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Shop.frShopSetup.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Stock.frStock.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.Properties.Resources.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csproj.GenerateResource.Cache
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe.config
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.exe
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.pdb
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.pdb
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Design.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Fonts.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.pdb
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.xml
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.xml
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csprojResolveAssemblyReference.cache
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.frMain.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frAccount.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frLogin.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBackup.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBAckupRestore.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Category.frCategory.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Customer.frCustomer.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Log.frLog.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Product.frProduct.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamCustom.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamMonthly.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frPraramDaily.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frReports.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frViewSales.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.SelectedData.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Return.frReturn.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frCheckOut.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frModifySales.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSale.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSales.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSelectProducts.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Shop.frShopSetup.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Stock.frStock.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.Properties.Resources.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csproj.GenerateResource.Cache
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.viewRptProfitLoss.resources
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\RdlCompile.cache
+D:\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\RdlCompile.compiled
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe.config
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.exe
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.pdb
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.pdb
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Bunifu_UI_v1.52.dll
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.dll
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.dll
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.dll
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Design.dll
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.dll
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Fonts.dll
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Tulpep.NotificationWindow.dll
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.pdb
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.xml
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.xml
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csprojResolveAssemblyReference.cache
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.frMain.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frAccount.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frLogin.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBackup.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBAckupRestore.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Category.frCategory.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Customer.frCustomer.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Log.frLog.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Product.frProduct.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamCustom.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamMonthly.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frPraramDaily.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frReports.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frViewSales.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.SelectedData.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.viewRptProfitLoss.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Return.frReturn.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frCheckOut.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frModifySales.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSale.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSales.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSelectProducts.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Shop.frShopSetup.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Stock.frStock.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.Properties.Resources.resources
+E:\USB Data\Electric Store Crash\Electric Store Crash\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csproj.GenerateResource.Cache
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.viewRptProfitLoss.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frTrackOrder.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe.config
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.exe
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.exe
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\ElectricStoreMetro.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Design.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\MetroFramework.Fonts.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\LibCore.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.xml
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\bin\Debug\EntityFramework.SqlServer.xml
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csprojResolveAssemblyReference.cache
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.frMain.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frAccount.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Accounts.frLogin.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBackup.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Backup_Restore.frBAckupRestore.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Category.frCategory.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Customer.frCustomer.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Log.frLog.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Product.frProduct.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamCustom.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frParamMonthly.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frPraramDaily.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frReports.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frTrackOrder.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.frViewSales.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.SelectedData.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Reports.viewRptProfitLoss.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Return.frReturn.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frCheckOut.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frModifySales.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSale.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSales.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frSelectProducts.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Shop.frShopSetup.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Stock.frStock.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.Properties.Resources.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.csproj.GenerateResource.Cache
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frUpdateOrder.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Sale.frUpdateOrder.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Help.frHelpMain.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Settings.frSettings.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Contact.frContact.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Contact.frContact.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Help.frHelpMain.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Measurement.frMeasurement.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Settings.frSettings.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Measurement.frMeasurement.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Product.frProducts.resources
+E:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreMetro\obj\Debug\ElectricStoreMetro.MainForm.Product.frProducts.resources

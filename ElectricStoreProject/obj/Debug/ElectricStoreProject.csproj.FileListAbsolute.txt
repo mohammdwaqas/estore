@@ -1,0 +1,76 @@
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.exe.config
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.exe
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.pdb
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.csprojResolveAssemblyReference.cache
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.frMain.resources
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Properties.Resources.resources
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.csproj.GenerateResource.Cache
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.exe
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.pdb
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frAddProduct.resources
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frStock.resources
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frSale.resources
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.SubForms.frSaleSummary.resources
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.SubForms.frDailySale.resources
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\bin\Debug\EntityFramework.dll
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.Design.dll
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.dll
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.Fonts.dll
+E:\Waqas Folders\ElectricStore\ElectricStoreSolution\ElectricStoreProject\bin\Debug\EntityFramework.xml
+D:\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.exe.config
+D:\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.exe
+D:\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.pdb
+D:\ElectricStoreSolution\ElectricStoreProject\bin\Debug\EntityFramework.dll
+D:\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.Design.dll
+D:\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.dll
+D:\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.Fonts.dll
+D:\ElectricStoreSolution\ElectricStoreProject\bin\Debug\EntityFramework.xml
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.csprojResolveAssemblyReference.cache
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.frMain.resources
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frAddProduct.resources
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frSale.resources
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frStock.resources
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.SubForms.frDailySale.resources
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.SubForms.frSaleSummary.resources
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Properties.Resources.resources
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.csproj.GenerateResource.Cache
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.exe
+D:\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.exe.config
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.exe
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\bin\Debug\EntityFramework.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.Design.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.Fonts.dll
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\bin\Debug\EntityFramework.xml
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.csprojResolveAssemblyReference.cache
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.frMain.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frAddProduct.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frSale.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frStock.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.SubForms.frDailySale.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.SubForms.frSaleSummary.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Properties.Resources.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.csproj.GenerateResource.Cache
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.exe
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.exe.config
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.exe
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\bin\Debug\ElectricStoreProject.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\bin\Debug\EntityFramework.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.Design.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\bin\Debug\MetroFramework.Fonts.dll
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\bin\Debug\EntityFramework.xml
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.csprojResolveAssemblyReference.cache
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.frMain.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frAddProduct.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frSale.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.frStock.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.SubForms.frDailySale.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Forms.SubForms.frSaleSummary.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.Properties.Resources.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.csproj.GenerateResource.Cache
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.exe
+D:\Electric Store Crash\Office\ElectricStoreSolution\ElectricStoreProject\obj\Debug\ElectricStoreProject.pdb

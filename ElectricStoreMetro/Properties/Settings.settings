@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ElectricStoreMetro.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WalkingCustomerID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="CompleteOStatusID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PendingOStatusID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="MinStock" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ReportSavePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\</Value>
+    </Setting>
+    <Setting Name="ConvertableCategory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COPPER</Value>
+    </Setting>
+    <Setting Name="metertometer" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="yardtometer" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.9144</Value>
+    </Setting>
+    <Setting Name="foottometer" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.3048</Value>
+    </Setting>
+    <Setting Name="metertofoot" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">3.28082</Value>
+    </Setting>
+    <Setting Name="foottofoot" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="yardtofoot" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="metertoyard" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1.09361</Value>
+    </Setting>
+    <Setting Name="foottoyard" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.3333</Value>
+    </Setting>
+    <Setting Name="yardtoyard" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="foottokg" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="kgtokg" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

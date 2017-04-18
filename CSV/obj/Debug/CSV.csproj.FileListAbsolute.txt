@@ -1,0 +1,24 @@
+D:\ElectricStoreSolution\ElectricStoreSolution\CSV\bin\Debug\CSV.exe.config
+D:\ElectricStoreSolution\ElectricStoreSolution\CSV\bin\Debug\CSV.exe
+D:\ElectricStoreSolution\ElectricStoreSolution\CSV\bin\Debug\CSV.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.csprojResolveAssemblyReference.cache
+D:\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.Properties.Resources.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.csproj.GenerateResource.Cache
+D:\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.exe
+D:\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\CSV\bin\Debug\CSV.exe.config
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\CSV\bin\Debug\CSV.exe
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\CSV\bin\Debug\CSV.pdb
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.csprojResolveAssemblyReference.cache
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.Properties.Resources.resources
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.csproj.GenerateResource.Cache
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.exe
+D:\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\ElectricStoreSolution\CSV\obj\Debug\CSV.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\CSV\bin\Debug\CSV.exe.config
+D:\Electric Store Crash\Office\ElectricStoreSolution\CSV\bin\Debug\CSV.exe
+D:\Electric Store Crash\Office\ElectricStoreSolution\CSV\bin\Debug\CSV.pdb
+D:\Electric Store Crash\Office\ElectricStoreSolution\CSV\obj\Debug\CSV.csprojResolveAssemblyReference.cache
+D:\Electric Store Crash\Office\ElectricStoreSolution\CSV\obj\Debug\CSV.Properties.Resources.resources
+D:\Electric Store Crash\Office\ElectricStoreSolution\CSV\obj\Debug\CSV.csproj.GenerateResource.Cache
+D:\Electric Store Crash\Office\ElectricStoreSolution\CSV\obj\Debug\CSV.exe
+D:\Electric Store Crash\Office\ElectricStoreSolution\CSV\obj\Debug\CSV.pdb
